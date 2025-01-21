@@ -1,8 +1,10 @@
-# React + Vite
+Physics Game Demo
+A simple game demo using Three.js and React Three Fiber (r3f) to showcase physics-based interactions in the browser. 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+🌐 Built with Three.js and React Three Fiber.
+🎮 Physics simulation powered by @react-three/rapier
+📱 Responsive and optimized for web browsers.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3D Models
+All 3D models used in this demo were created by me, specifically for this project.
