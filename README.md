@@ -8,8 +8,6 @@ Features
 
 🎮 Physics simulation powered by @react-three/rapier
 
-📱 Responsive and optimized for web browsers.
-
 
 3D Models
 
